@@ -4,22 +4,22 @@ Esse repositório tem como objetivo expor o meu conhecimento em automações, ut
 
 ## Automações em Python:
 
-  1. **IMDbMovies_py - Extraindo informações de filmes do site IMDb**:
+  **1. IMDbMovies_py - Extraindo informações de filmes do site IMDb**:
 
-       Nessa automação feita com python, utilizando selenium e pandas, entramos no site do IMDb e extraímos informações como:
+  Nessa automação feita com python, utilizando selenium e pandas, entramos no site do IMDb e extraímos informações como:
      
-       * Nome do filme;
-       * Ano de lançamento;
-       * Duração;
-       * Avaliação;
-       * Descrição.
+  * Nome do filme;
+  * Ano de lançamento;
+  * Duração;
+  * Avaliação;
+  * Descrição.
   
-     Após jogar esses dados para um array, utilizamos o pandas para tabulação e conversão dos dados em excel.
-     Dentro da pasta, há um exemplo da planilha que é gerada ao final de todo o processo.
+  Após jogar esses dados para um array, utilizamos o pandas para tabulação e conversão dos dados em excel.
+  Dentro da pasta, há um exemplo da planilha que é gerada ao final de todo o processo.
 
 ## Automações em VB:
 
-  1. **arrumaImagens_VB - Posicionando imagens em um documento Word**:
+  **1. arrumaImagens_VB - Posicionando imagens em um documento Word**:
 
   Essa automação feita em VB tem como propósito definir duas imagens por página no documento Word, cada uma delas ocupando metade da folha.
   
