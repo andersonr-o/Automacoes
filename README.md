@@ -1,10 +1,10 @@
 # Automações
 
-Esse repositório tem como objetivo expor o meu conhecimento em automações utilizando linguagens de programação como Python e Visual Basic, por exemplo.
+Esse repositório tem como objetivo expor o meu conhecimento em automações, utilizando linguagens de programação, como: Python e Visual Basic, por exemplo.
 
 ## Automações em Python:
 
-  1. IMDbMovies_py - Extraindo informações de filmes do site IMDb:
+  1. **IMDbMovies_py - Extraindo informações de filmes do site IMDb**:
 
        Nessa automação feita com python, utilizando selenium e pandas, entramos no site do IMDb e extraímos informações como:
      
@@ -19,7 +19,7 @@ Esse repositório tem como objetivo expor o meu conhecimento em automações uti
 
 ## Automações em VB:
 
-  1. arrumaImagens_VB - Posicionando imagens em um documento Word:
+  1. **arrumaImagens_VB - Posicionando imagens em um documento Word**:
 
   Essa automação feita em VB tem como propósito definir duas imagens por página no documento Word, cada uma delas ocupando metade da folha.
   
