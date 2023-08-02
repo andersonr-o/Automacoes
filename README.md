@@ -1,6 +1,6 @@
 # Automações
 
-Esse repositório tem como objetivo expor o meu conhecimento em automação utilizando linguagens de programação como Python e Visual Basic, por exemplo.
+Esse repositório tem como objetivo expor o meu conhecimento em automações utilizando linguagens de programação como Python e Visual Basic, por exemplo.
 
 ## Automações em Python:
 
