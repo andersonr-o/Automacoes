@@ -25,7 +25,7 @@ Esse repositório tem como objetivo expor o meu conhecimento em automações, ut
 
    Após passar por todos os elementos da tabela informativa, os dados são alocados em um array e, com a utilização da biblioteca Pandas, colocamos as informações em um arquivo .csv.
 
-   Dentro da pasta, há um exemplo do arquivo .csv que é gerado ao final de todo o processo.
+   Dentro da pasta que contém o código da automação, há um exemplo do arquivo .csv que é gerado ao final de todo o processo.
 
 ## Automações em VB:
 
