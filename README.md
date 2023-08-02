@@ -4,7 +4,7 @@ Esse repositório tem como objetivo expor o meu conhecimento em automações, ut
 
 ## Automações em Python:
 
-  **1. IMDbMovies_py - Extraindo informações de filmes do site IMDb**:
+  **1. [IMDbMovies_py](https://github.com/andersonr-o/Automacoes/tree/main/IMDbMovies_py) - Extraindo informações de filmes do site IMDb**:
 
    Nessa automação feita com python, utilizando selenium e pandas, entramos no site do IMDb e extraímos informações como:
      
@@ -17,9 +17,17 @@ Esse repositório tem como objetivo expor o meu conhecimento em automações, ut
    Após jogar esses dados para um array, utilizamos o pandas para tabulação e conversão dos dados em excel.
    Dentro da pasta, há um exemplo da planilha que é gerada ao final de todo o processo.
 
+##
+
+   **2. [indicadoresDaBolsa_py](https://github.com/andersonr-o/Automacoes/tree/main/indicadoresDaBolsa.py) - Extraindo dados de índices da bolsa de valores americana:**
+
+   Essa automação extrai dados financeiros sobre índices da bolsa de valores americana, tais como Dow Jones, S&P 500, Nasdaq, entre outros, através do site "Investing.com".
+
+   Após passar por todos os elementos da tabela informativa, os dados são alocados em um array e, com a utilização da biblioteca Pandas, colocamos as informações em um arquivo .csv.
+
 ## Automações em VB:
 
-  **1. arrumaImagens_VB - Posicionando imagens em um documento Word**:
+  **1. [arrumaImagens_VB](https://github.com/andersonr-o/Automacoes/tree/main/arrumaImagens_VB) - Posicionando imagens em um documento Word**:
 
    Essa automação feita em VB tem como propósito definir duas imagens por página no documento Word, cada uma delas ocupando metade da folha.
   
